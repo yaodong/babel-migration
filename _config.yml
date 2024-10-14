@@ -1,0 +1,24 @@
+# the base hostname & protocol for your site, e.g. http://example.com
+url: ""
+
+# the subpath of your site, e.g. /blog
+baseurl: ""
+
+# use /posts/post-name/ as permalink
+permalink: /:title/
+
+# the name of your site, e.g. ACME Corp.
+title: "Jekyll Boilerplate"
+
+exclude:
+  - bin
+  - node_modules
+  - bun.lockb
+  - Procfile.dev
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - tsconfig.json
+  - .idea
+  - .github
+  - .devcontainer
