@@ -1,4 +1,4 @@
-name: "jekyll-boilerplate"
+name: "babel-migration"
 
 services:
   jekyll:

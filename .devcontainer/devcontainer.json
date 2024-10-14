@@ -1,5 +1,5 @@
 {
-  "name": "Jekyll Boilerplate",
+  "name": "Babel Migration",
   "dockerComposeFile": "docker-compose.yml",
   "service": "jekyll",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
